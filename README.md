@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leons21)](https://github.com/Leons21/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leons21&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leons21&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Agung Prasetyo Nugroho" /></p>
 <!---
 Leons21/Leons21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
