@@ -1,7 +1,6 @@
-# Hi there 👋
 
-👋 Hi, I’m Leonnyndra
-👀 Visit my portfolio https://leons21.github.io/Leonnyndra-portofolio-web.github.io/
+# 👋 Hi, I’m Leonnyndra <br>
+👀 Visit my portfolio https://leons21.github.io/Leonnyndra-portofolio-web.github.io/ <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leons21&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Leonnyndra Putra " /></p>
 <!---
