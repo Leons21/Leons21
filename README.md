@@ -3,7 +3,7 @@
 
 ## 👀 Visit my portfolio
 - Web Portfolio: https://leons21.github.io/Leonnyndra-portofolio-web.github.io
-- Certifications: https://leons21.github.io/Leonnyndra-portofolio-web.github.io/](https://drive.google.com/drive/folders/1Bmc4RP8ZCdjEIQ1ZzNLS4B-vzaH-rBql?usp=sharing
+- Certifications: https://drive.google.com/drive/folders/1Bmc4RP8ZCdjEIQ1ZzNLS4B-vzaH-rBql?usp=sharing
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/leons.putra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonnyndra-putra) 
